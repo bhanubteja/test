@@ -1,2 +1,2 @@
 # test
-This is a README file to brief about the project
+This is a README file about the project
